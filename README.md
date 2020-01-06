@@ -1,3 +1,3 @@
-# hello-world
+# Hello-world!
 heipparallaa
-I am learning and I am becoming a Full-Stack web developer.
+I am learning and I am becoming a full-stack web developer.
